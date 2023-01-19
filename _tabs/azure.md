@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fab fa-microsoft
+icon: fa-brands fa-microsoft
 order: 4
 ---
 
