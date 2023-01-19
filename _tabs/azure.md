@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fa fa-windows
+icon: fab fa-microsoft
 order: 4
 ---
 
